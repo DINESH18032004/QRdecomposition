@@ -70,7 +70,8 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```![8 maths](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/a5421f11-f2e6-4103-8fae-8012f1620e57)
+``` 
+![8 maths](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/a5421f11-f2e6-4103-8fae-8012f1620e57)
 ```
 
 ## Result
