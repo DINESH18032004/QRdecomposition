@@ -8,7 +8,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-3.	
+
 ## Algorithm:
 
 1.	Intialize the matrix Q and u
@@ -61,11 +61,6 @@ def QR_Decomposition(A):
     print(R)
 a = np.array(eval(input()))
 QR_Decomposition(a)
-
-
-
-
-
 
 ```
 
