@@ -26,10 +26,8 @@ eqn3![image](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/
 
 3.Obtain the Q matrix![image](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/6fc53632-db42-4f1d-9abc-03184c8a07d7)
 
-4.eqn4![image](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/40120049-d77d-4995-a789-fc543dc50504)
+4.eqn4!Construct the upper triangular matrix R eqn5![image](https://github.com/DINESH18032004/QRdecomposition/assets/119477784/ed8639be-ecbd-4263-a3f2-4dff843a8812)
 
-
-Construct the upper triangular matrix R eqn5
 
 
 
